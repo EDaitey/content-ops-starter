@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Youtube",
-            "url": "/pricing",
+            "url": "/youtube",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
